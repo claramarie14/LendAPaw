@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0593/9183/rpaw_aqua_shop_preview.png");no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+}
+
+h1 {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 70px;
+    text-align: center
+}
+
+h3 {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 50px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+a {
+    font-family: 'Mouse Memoirs', sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+
+ul {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 50px;
+}
